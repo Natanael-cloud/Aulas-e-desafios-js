@@ -17,3 +17,8 @@ if(imc < 18.5){
 }else{
     console.log('Obesidade Grave')
 }
+
+/*A saída do terminal será
+22.49134948096886
+Peso Normal
+*/
