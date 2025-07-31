@@ -41,3 +41,12 @@ const condicaoPagamento = 2;
 
 // Chama a função passando os dois valores definidos acima
 calcularValorFinal(precoEtiqueta, condicaoPagamento);
+
+
+/*
+Como a condição de pagamento atribuída foi a de numero 2, aparecerá a seguinte mensagem no terminal
+
+Pagamento em Dinheiro ou PIX: 15% de desconto.
+Valor final a ser pago: R$ 85.00
+
+ */
